@@ -28,8 +28,8 @@ To use this script, follow these steps:
 1. **Clone the Repository**: Clone this repository or download the script file directly to your server.
 
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone git@github.com:mojahid0862/server_setup.git
+   cd server_setup
    ```
 
 2. **Give Execute Permissions**: Grant execution permissions to the script.
